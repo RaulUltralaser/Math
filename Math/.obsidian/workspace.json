@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "35cd88f512aa40ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e0351c601862df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a53962b95702694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topología.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "841a22033b58880b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topología.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74ea148f030a320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topología Indiscreta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93c5ea07c2c8994e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topología.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c92b406c5ed52f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haussdorf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bea52fc890c1686",
+    "type": "split",
+    "children": [
+      {
+        "id": "425718bac37e28ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89bbc757dc93a55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e4e63be1de5fca1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbe0fa5be1364831",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7073081d54cd552",
+    "type": "split",
+    "children": [
+      {
+        "id": "6180af2bef54a32d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070aa54dfe683258",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Haussdorf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d8c01442bb2b82f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Haussdorf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98f9eca92bce4886",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd6c42d731f0b2f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Haussdorf.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c92b406c5ed52f39",
+  "lastOpenFiles": [
+    "Topología.md",
+    "Conjuntos cerrados.md",
+    "Topología Cofinita.md",
+    "[.md",
+    "Conjuntos clopen.md",
+    "Topología Indiscreta.md",
+    "Conjuntos abiertos.md",
+    "Topología Discreta.md",
+    "Haussdorf.md",
+    "Localmente euclidiano.md",
+    "Manifold.md",
+    "Conjunto potencia.md",
+    "Cardinalidad.md",
+    "Base contable.md",
+    "subespacio topologico.md",
+    "Sin título.canvas"
+  ]
+}
