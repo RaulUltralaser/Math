@@ -26,7 +26,13 @@ Proposición: Si $(X,\tau)$ es un espacio topológico tal que, para cada $x\in X
 
 [[Topología Cofinita]]
 
-Un análisis de la topología euclidiana nos lleva a la noción de "bases para una topología"
+Un análisis de la topología euclidiana nos lleva a la noción de "bases para una topología". En un espacio topológico cada conjunto abierto puede ser expresado como una unión de miembros de la base. De hecho **un conjunto es abierto si solo si, es una union de miembros de al base**
+
+
+
+
+
+
 
 
 
