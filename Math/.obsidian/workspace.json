@@ -8,60 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a53962b95702694",
+            "id": "84d9d479662c33b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topología.md",
+                "file": "Topología/Euclidian topology.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "841a22033b58880b",
+            "id": "8c209db8fb864726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topología.md",
+                "file": "Topología/Conjuntos cerrados.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c74ea148f030a320",
+            "id": "51c6b29d20fafe60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topología Indiscreta.md",
+                "file": "Topología/puntos limites.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93c5ea07c2c8994e",
+            "id": "45bf59152365ac48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topología.md",
+                "file": "Topología/puntos limites.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c92b406c5ed52f39",
+            "id": "7f042189bae08e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topología.md",
+                "file": "Topología/Base de una topología.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topología.md",
+                "file": "Topología/Base de una topología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topología.md",
+                "file": "Topología/Base de una topología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topología.md"
+                "file": "Topología/Base de una topología.md"
               }
             }
           }
@@ -187,31 +187,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c92b406c5ed52f39",
+  "active": "7f042189bae08e86",
   "lastOpenFiles": [
-    "Haussdorf.md",
-    "Topología.md",
-    "Conjuntos cerrados.md",
-    "Topología Cofinita.md",
+    "Sin título.canvas",
+    "Topología/Base de una topología.md",
+    "Topología/Haussdorf.md",
+    "Topología/Cardinalidad.md",
+    "Topología/Conjuntos abiertos.md",
+    "Topología",
+    "Topología/Conjuntos cerrados.md",
+    "Topología/puntos limites.md",
+    "Topología/Topología Indiscreta.md",
+    "Topología/Topología.md",
+    "Topología/Localmente euclidiano.md",
+    "Topología/Manifold.md",
+    "Topología/Euclidian topology.md",
+    "Topología/Base contable.md",
+    "Topología/Topología Discreta.md",
+    "Topología/Topología Cofinita.md",
     "[.md",
-    "Conjuntos clopen.md",
-    "Topología Indiscreta.md",
-    "Conjuntos abiertos.md",
-    "Topología Discreta.md",
-    "Localmente euclidiano.md",
-    "Manifold.md",
-    "Conjunto potencia.md",
-    "Cardinalidad.md",
-    "Base contable.md",
-    "subespacio topologico.md",
-    "Sin título.canvas"
+    "Topología/Conjuntos clopen.md",
+    "Topología/Conjunto potencia.md",
+    "subespacio topologico.md"
   ]
 }

@@ -11,3 +11,6 @@ ii) La intersección de cualquier número (finito o infinito) de conjuntos cerra
 iii) La unión de cualquier número finito de conjuntos cerrados es un conjunto cerrado
 
 
+El conjunto $F\subseteq\mathbb{R}$ es cerrado si contiene todos sus [[puntos limites]]
+
+

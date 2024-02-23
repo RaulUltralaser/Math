@@ -1,4 +1,5 @@
 [[Manifold]]
+[[Base de una topología]]
 
 Sea $(X,\tau)$  un [espacio topológico](Topología.md). Una colección de subconjuntos abiertos $B\in \tau$ es una base de $\tau$ si: 
 
