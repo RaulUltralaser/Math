@@ -1,4 +1,4 @@
-git
+
 > [!definition] Base de una topología
 > Sea $(X,\tau)$ un espacio topológico. Una colección $\beta$  de subconjuntos abiertos de $X$ se dice que es una base para la topología $\tau$ si todo conjunto abierto es una unión de miembros de $\beta$.
 
